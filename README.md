@@ -4,9 +4,9 @@
 
 This is the course project [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project)
 
-![screenshot](https://github.com/kubaw00/Jbook-NPM-package-version/blob/master/uploads/1.png)
-![screenshot](https://github.com/kubaw00/Jbook-NPM-package-version/blob/master/uploads/2.png)
-![screenshot](https://github.com/kubaw00/Jbook-NPM-package-version/blob/master/uploads/3.png)
+![screenshot](https://github.com/kubaw00/Jbook-NPM-package-version/blob/main/uploads/1.png)
+![screenshot](https://github.com/kubaw00/Jbook-NPM-package-version/blob/main/uploads/2.png)
+![screenshot](https://github.com/kubaw00/Jbook-NPM-package-version/blob/main/uploads/3.png)
 
 ## Features
 

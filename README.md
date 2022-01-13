@@ -20,6 +20,6 @@ This is the course project [React and Typescript: Build a Portfolio Project](htt
 
 All of your changes get saved to the file you opened JBook with. So if you run npx jbook serve test.js all of the text content will be saved in test.js file
 
-npx jbook serve [filename]
+npx jsnote-james serve [filename]
 
 Navigate to http://localhost:4005 to edit the file
